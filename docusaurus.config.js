@@ -69,7 +69,7 @@ const config = {
             position: 'left',
             label: 'Belajar',
           },
-          // { to: '/blog', label: 'Blog', position: 'left' },
+          { to: '/glossary', label: 'Glosarium', position: 'left' },
           {
             href: 'https://github.com/bios-bunda-mulia-university/next-himabios',
             label: 'GitHub',
