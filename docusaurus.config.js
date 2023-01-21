@@ -60,7 +60,7 @@ const config = {
         title: 'BIOS',
         logo: {
           alt: 'BIOS Logo',
-          src: 'img/bios.png',
+          src: 'img/BIOS.png',
         },
         items: [
           {
