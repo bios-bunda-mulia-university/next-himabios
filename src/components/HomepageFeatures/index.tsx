@@ -34,8 +34,9 @@ const FeatureList: FeatureItem[] = [
     Svg: require("@site/static/img/money.svg").default,
     description: (
       <>
-        Kami mengerti bagaimana mahasiswa memiliki biaya yang terbatas. Sehingga
-        kami membuat web ini bersifat gratis dan open source.
+        Kami mempercayai bahwa pendidikan harus bersifat gratis. Maka dari itu
+        kami membuat web ini dengan misi memberikan edukasi gratis kepada
+        seluruh pelajar.
       </>
     ),
   },
