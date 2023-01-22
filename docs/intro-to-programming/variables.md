@@ -8,7 +8,7 @@ sidebar_position: 2
 
 Bayangin, kalian memiliki sebuah botol kosong. Botol tersebut nantinya akan diisi oleh air. Nah, botol tersebut adalah **variable**. Variable dapat menampung sebuah nilai/isi. Dalam kasus botol diatas, nilai/isinya adalah **air**.
 
-Variable adalah tempat untuk menampung sebuah nilai/isi yang akan digunakan untuk memberikan data ke dalam kode.
+> Variable adalah tempat untuk menampung sebuah nilai/isi yang akan digunakan untuk memberikan data ke dalam kode.
 
 Contoh:
 

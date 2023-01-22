@@ -8,7 +8,7 @@ sidebar_position: 3
 
 Masih menggunakan contoh botol tadi. Botol tidaklah terdiri dari satu jenis saja. Botol dapat memiliki banyak ragam dengan bahan, ukuran, model dan packaging yang berbeda-beda. Di dalam programming, variable dapat memiliki berbagai jenis tipe data dengan beragam kapasitas, tipe, ataupun custom data.
 
-Tipe data adalah kategori atau jenis dari suatu nilai yang dapat di simpan dan diolah dalam sebuah program.
+> Tipe data adalah kategori atau jenis dari suatu nilai yang dapat di simpan dan diolah dalam sebuah program.
 
 Kapasitas tipe data pada masing-masing bahasa programming berbeda-beda tergantung dari jenis sistem operasi yang digunakan dan jenis arsitektur prosesor. Di bagian ini tidak akan terlalu dijelaksan secara mendetil mengenai beragam tipe data pada programming.
 
