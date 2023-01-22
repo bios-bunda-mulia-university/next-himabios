@@ -16,28 +16,28 @@ Tipe data terbagi menjadi 2:
 
 ## Tipe Data Primitif
 
-  Tipe data primitif adalah tipe data yang paling sederhana yang berasal dari bahasa programming itu sendiri.
+Tipe data primitif adalah tipe data yang paling sederhana yang berasal dari bahasa programming itu sendiri.
 
-  Contoh:
+Contoh:
 
-  - Integer
-  - Float
-  - Boolean
-  - Character
-  - Double
-  - Byte
+- Integer
+- Float
+- Boolean
+- Character
+- Double
+- Byte
 
-  Dan lainnya. Tipe data diatas mencakup tipe data untuk angka, karakter, dan juga nilai kebenaran. Masing-masing memiliki kapasitas yang berbeda-beda.
+Dan lainnya. Tipe data diatas mencakup tipe data untuk angka, karakter, dan juga nilai kebenaran. Masing-masing memiliki kapasitas yang berbeda-beda.
 
 ## Tipe Data Non-Primitif
 
-  TIpe data non-primitif adalah tipe data kompleks yang umumnya ditulis oleh si programmer itu sendiri. Secara singkat, tipe data non-primitif adalah tipe data kustom.
+TIpe data non-primitif adalah tipe data kompleks yang umumnya ditulis oleh si programmer itu sendiri. Secara singkat, tipe data non-primitif adalah tipe data kustom.
 
-  Contoh:
+Contoh:
 
-  - String
-  - Array
-  - Object
-  - Enum
+- String
+- Array
+- Object
+- Enum
 
-  Dan lainnya. Pada intinya, tipe data non-primitif tidak tergolong dalam tipe data primitif.
+Dan lainnya. Pada intinya, tipe data non-primitif tidak tergolong dalam tipe data primitif.
