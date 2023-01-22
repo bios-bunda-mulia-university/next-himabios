@@ -34,6 +34,7 @@ Bagian ini akan membahas tentang:
 - [Variable](./variables)
 - [Data Types](./data-types)
 - [I/O Input/Output](./io)
+- [Comment](./comment)
 - [Operator](./operator)
 - [Modules/Libraries](./modules)
 - [Control Flow](./control-flow)
