@@ -69,7 +69,7 @@ const config = {
             position: 'left',
             label: 'Belajar',
           },
-          { to: '/glossary', label: 'Glosarium', position: 'left' },
+          // { to: '/glossary', label: 'Glosarium', position: 'left' },
           { to: '/docs/intro', label: 'Tentang kami', position: 'left' },
           {
             href: 'https://github.com/bios-bunda-mulia-university/next-himabios',
