@@ -41,7 +41,7 @@ Bagian ini akan membahas tentang:
 - [Array](./array)
 - [Object](./object)
 - [Debugging](./debugging)
-- [Best Practices](./best-practices/best-practices)
+- [Best Practices](./best-practices/intro-best-practices)
   - [Naming Conventions](./best-practices/naming-conventions)
   - [Code Formatting](./best-practices/code-formatting)
   - [Code Documentation](./best-practices/code-documentation)
