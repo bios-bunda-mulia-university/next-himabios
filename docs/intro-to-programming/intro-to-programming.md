@@ -38,7 +38,6 @@ Bagian ini akan membahas tentang:
 - [Operator](./operator)
 - [Modules/Libraries](./modules)
 - [Control Flow](./control-flow)
-- [Function](./function)
 - [Array](./function)
 - [Object](./object)
 - [Debugging](./debugging)
