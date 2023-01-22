@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Kesulitan Memahami Materi Perkuliahan?',
   tagline: 'Yuk belajar secara GRATIS dengan klik tombol dibawah ini!',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://next-himabios-h0brsnt3t-bios-ubm.vercel.app',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
