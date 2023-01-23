@@ -2,7 +2,7 @@
 sidebar_position: 9
 ---
 
-# Obect
+# Object
 
 > Object adalah struktur data dengan struktur **Key-Value Pair** dimana Key adalah properti dan Value adalah nilai yang sesuai.
 
