@@ -4,7 +4,7 @@ sidebar_position: 5
 
 # Operator
 
-![Mengisi botol air](https://i.imgur.com/alaZ5HP.png)
+![Mengisi botol air](./../../static/img/pic5.png)
 
 Pada ilustrasi diatas, ada orang sedang mengisi air. Maka air di dalam botol tersebut menjadi **bertambah**. Kalau kita meminum air dari botol tersebut, maka air yang ada di botol tersebut menjadi **berkurang**.
 

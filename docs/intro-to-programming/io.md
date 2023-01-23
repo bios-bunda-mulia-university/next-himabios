@@ -4,7 +4,7 @@ sidebar_position: 4
 
 # I/O
 
-![Orang sedang minum](https://i.imgur.com/tUdQ2IT.png)
+![Orang sedang minum](./../../static/img/pic3.png)
 
 Mari kita lihat ilustrasi diatas. Ilustrasi diatas menggambarkan orang sedang minum dengan menggunakan botol. Dari ilustrasi diatas. Inputnya adalah minum. Lalu outputnya adalah rasa dahaga hilang.
 

@@ -4,7 +4,7 @@ sidebar_position: 7
 
 # Control Flow
 
-![Minuman Beralkohol](https://i.imgur.com/nXgviYP.png)
+![Minuman Beralkohol](./../../static/img/pic7.png)
 
 Gambar diatas adalah ilustrasi minuman beralkohol yang hanya dapat dikonsumsi oleh umur 21 tahun keatas. Nah bayangkan jika kamu adalah penjaga kasir di supermarket. Ada seseorang yang ingin membeli salah satu dari minuman diatas. Anda pasti akan menanyakan KTP untuk memastikan batas umur pembeli minuman beralkohol adalah 21 tahun. Bagaimana jika orang tersebut belum berumur 21 tahun, atau baru saja berulang tahun yang ke-21? Disinilah control flow diperlukan.
 

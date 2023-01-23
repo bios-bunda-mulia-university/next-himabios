@@ -4,7 +4,7 @@ sidebar_position: 6
 
 # Modules/Libraries
 
-![Bijih Plastik](https://i.imgur.com/9iBDKDJ.png)
+![Bijih Plastik](./../../static/img/pic6.png)
 
 Gambar diatas adalah bijih plastik yang umumnya akan digunakan untuk pembuatan botol plastik. Botol plastik yang digunakan sehari-hari melalui beberapa tahapan mulai dari bahan mentah sampai ke produk jadi. Bayangkan jika kamu ingin memulai sebuah usaha minuman. Apakah kamu akan membuat botol/kemasannya dari awal? Mungkin tidak karena itu akan memakan biaya yang besar. Kamu harus membeli semua alat-alatnya hanya untuk membuat botol minum.
 

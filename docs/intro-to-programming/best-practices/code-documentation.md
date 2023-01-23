@@ -4,7 +4,7 @@ sidebar_position: 14
 
 # Code Documentation
 
-![Code Documentation Meme](https://i.imgur.com/fv1SAMA.png) ![Another meme](https://i.imgur.com/GSKEgcl.png)
+![Code Documentation Meme](./../../../static/img/pci10.1.png) ![Another meme](./../../../static/img/pic10.2.png)
 
 > Code Documentation adalah kumpulan informasi tentang cara penggunaan bahasa programming, framework/libraries ataupun API yang sudah didokumentasikan unutuk memberikan panduan kepada pengguna.
 

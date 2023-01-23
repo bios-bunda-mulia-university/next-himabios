@@ -4,7 +4,7 @@ sidebar_position: 10
 
 # Debugging
 
-![Debugging](https://i.imgur.com/e2khpVI.png)
+![Debugging](./../../static/img/pic9.png)
 
 > Debugging adalah proses mencari dan memperbaiki kesalahan atau bug dalam kode.
 

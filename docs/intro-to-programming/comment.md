@@ -4,7 +4,7 @@ sidebar_position: 5
 
 # Comment
 
-![Aqua](https://i.imgur.com/xNz8Gku.png)
+![Aqua](./../../static/img/pic4.png)
 
 Botol diatas menggunakan label "Aqua" sebagai merk dari botol tersebut.
 

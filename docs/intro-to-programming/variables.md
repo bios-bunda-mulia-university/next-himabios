@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Variables
 
-![Botol Kosong](https://i.imgur.com/5FqXSRm.png)
+![Botol Kosong](./../../static/img/pic1.png)
 
 Bayangin, kalian memiliki sebuah botol kosong. Botol tersebut nantinya akan diisi oleh air. Nah, botol tersebut adalah **variable**. Variable dapat menampung sebuah nilai/isi. Dalam kasus botol diatas, nilai/isinya adalah **air**.
 

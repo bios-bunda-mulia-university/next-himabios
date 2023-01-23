@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Data Types
 
-![Berbagai jenis botol](https://i.imgur.com/xjDLtYw.png)
+![Berbagai jenis botol](./../../static/img/pic2.png)
 
 Masih menggunakan contoh botol tadi. Botol tidaklah terdiri dari satu jenis saja. Botol dapat memiliki banyak ragam dengan bahan, ukuran, model dan packaging yang berbeda-beda. Di dalam programming, variable dapat memiliki berbagai jenis tipe data dengan beragam kapasitas, tipe, ataupun custom data.
 
